@@ -1,7 +1,7 @@
 # PR2022-AOPL
 This is the code for 
 
-Adaptive-order proximity learning for graph-based clustering
+Adaptive-order Proximity Learning for Graph-based Clustering
 
 Danyang Wu, Wei Chang, Jitao Lu, Feiping Nie, Rong Wang, Xuelong Li 
 
