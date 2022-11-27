@@ -8,7 +8,7 @@ Danyang Wu, Wei Chang, Jitao Lu, Feiping Nie, Rong Wang, Xuelong Li
 Pattern Recognition
 
 ### Code 
-  AOPL_Code/AOPL: AOPL_function
+  AOPL_Code/AOPL: main_function
   
   funs: Useful functions
 
