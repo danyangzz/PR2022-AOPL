@@ -1,4 +1,4 @@
-# PR-AOPL
+# PR2022-AOPL
 This is the code for 
 
 Adaptive-order proximity learning for graph-based clustering
@@ -13,4 +13,4 @@ Pattern Recognition
   funs: Useful functions
 
 ### Citation
-If this code is useful to you, we sincerely hope that you can cite our paper 
+If this code is useful to you, we sincerely hope that you can cite our paper.
